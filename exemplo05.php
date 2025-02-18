@@ -1,6 +1,13 @@
 <?php
-    $n = "penta";
-    echo "O Brasil é $ncampeão!";
-    
+$x = "Oi";
+$y = " 2C";
+
+$frase = $x;
+$frase .= "";
+$frase .= $y;
+$frase .= " bom dia!";
+
+
+echo $frase;
 
 ?>
